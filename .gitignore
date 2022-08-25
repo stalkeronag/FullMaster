@@ -2,10 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/Game/Assets/*.meta
-/Game/ProjectSettings/*.asset
-/Game/.vsconfig
-/Game/*.meta
+Assets/*.meta
+ProjectSettings/*.asset
+.vsconfig
+*.meta
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -75,3 +75,4 @@ crashlytics-build.properties
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
 
+ProjectSettings
