@@ -2,8 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Assets/*.meta
-ProjectSettings/*.asset
 .vsconfig
 *.meta
 [Ll]ibrary/
@@ -76,3 +74,4 @@ crashlytics-build.properties
 [Aa]ssets/[Ss]treamingAssets/aa/*
 
 ProjectSettings/
+**/*.meta
